@@ -1,0 +1,26 @@
+.card-style{
+    border: 1px solid crimson;
+}
+
+
+.style-button {
+    border: 1px solid crimson ;
+
+}
+
+.i-style{
+    border: 1px solid crimson;
+    background-color: white;
+    color: crimson;
+    padding: 10px;
+    border-radius: 100%;
+}
+
+
+.style{
+border-radius: 50px;
+padding: 10px;
+margin: 5px;
+border: 1px solid crimson;
+
+}

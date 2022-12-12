@@ -1,0 +1,102 @@
+[
+
+
+    
+    {
+        "_id":1,
+        "img":"https://i.ibb.co/5BHZrjy/20220610-140112.jpg",
+        "name":"Mechanical Parts",
+        "detelas1":"It is two part admin and user",
+        "detelas2":"User can order,make payment,add review.A admin can manage product  delete product ,add product , Dashboard are protected with JWT.",
+        "title":"Parts Manufacture  Website",
+        "live":"https://assignment-baro.web.app/",
+        "server":"https://github.com/mozahidahmed/manufacture-server-site",
+        "client":"https://github.com/mozahidahmed/manufacture-client-site",
+        "mongodb":"MongoDB",
+        "react":"React",
+        "tailwind":"Tailwind css",
+        "router":"React Router",
+        "firebase":"Firebase",
+        "jwt":"JWT"
+    
+
+
+
+
+    },
+    {
+
+
+        "_id":1,
+        "img":"https://i.ibb.co/TbCP8bf/20220610-140210.jpg",
+        "name":"Warehouse ",
+        "title":"Product Management  Website",
+        "detelas1":"User can  Addproduct,Remove product,order ,delete order.",
+        "detelas2":"Private a Secure Route for Users.",
+       
+        "live":"https://furniture-warehouse-d4ac5.web.app/",
+        "server":"https://github.com/mozahidahmed/warehouse-server-site",
+        "client":"https://github.com/mozahidahmed/warehouse-client-site",
+        "mongodb":"MongoDB",
+        "react":"React",
+        "tailwind":"Tailwind css",
+        "router":"React Router",
+        "firebase":"Firebase"
+
+
+
+        	
+        	
+        
+        
+        
+
+
+    },
+    {
+
+        
+        "img":"https://i.ibb.co/bsJ6QSP/20220610-140320.jpg",
+        "name":"Coffee-shop",
+        "title":"Coffee-shop Website",
+        "detelas1":"Coffee drinking in a charming environment .Special sofa arrangement . Birds call for coffee in the morning.Always staff cooperation.",
+        "detelas2":"User can Securely Create Account.Private a Secure Route for Users",
+       
+        "live":"https://coffeehouse-52837.web.app/",
+        
+        "client":"https://github.com/mozahidahmed/coffeehouse-client-side",
+        "mongodb":"MongoDB",
+        "react":"React",
+        "tailwind":"Tailwind css",
+        "router":"React Router",
+        "firebase":"Firebase",
+        "jwt":"JWT"
+
+
+
+
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

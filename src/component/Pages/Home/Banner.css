@@ -1,0 +1,16 @@
+.img-style img{
+    border: 2px solid crimson;
+    border-radius: 300px;
+    box-shadow: 20px;
+}
+
+
+.btn-style{
+    border: 1px solid crimson ;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.banner{
+    /* border-bottom: 1px solid crimson; */
+}
